@@ -1,0 +1,26 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environment
+venv/
+.env/
+
+# VS Code
+.vscode/
+
+# Mac files
+.DS_Store
+
+# Dataset files
+*.csv
+*.xlsx
+
+# Model files
+*.pkl
+
+# Streamlit cache
+.streamlit/secrets.toml
